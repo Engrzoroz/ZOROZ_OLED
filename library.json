@@ -1,5 +1,5 @@
 {
-  "name": "ZOROZ OLED",
+  "name": "ZorozOLED",
   "version": "1.0.0",
   "description": "Easy high-level SH1106 and SSD1306 OLED library for Arduino-compatible boards.",
   "keywords": ["oled", "sh1106", "ssd1306", "display", "graphics", "animation"],
